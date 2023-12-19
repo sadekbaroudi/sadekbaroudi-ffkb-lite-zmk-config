@@ -16,5 +16,6 @@ manifest:
       remote: petejohanson
       revision: main
       clone-depth: 1
+      import: true
   self:
     path: config
