@@ -17,3 +17,5 @@ include:
     shield: sadekbaroudi_ffkb_lite
   - board: sadekbaroudi_svlinky
     shield: sadekbaroudi_ffkb_lite vik_gc9a01a
+  - board: sadekbaroudi_svlinky
+    shield: sadekbaroudi_ffkb_lite vik_st7735
