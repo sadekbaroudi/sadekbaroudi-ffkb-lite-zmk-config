@@ -12,3 +12,6 @@
 #     shield: reviung41
 #
 ---
+include:
+  - board: sadekbaroudi_svlinky
+    shield: sadekbaroudi_ffkb_lite
