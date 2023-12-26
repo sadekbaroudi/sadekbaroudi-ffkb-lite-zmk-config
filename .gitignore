@@ -1,0 +1,9 @@
+zephyr/
+.west/
+build/
+gc9a01a_zephyr_driver/
+modules/
+sadekbaroudi-zmk-module/
+zmk/
+
+!zephyr/modules.yml
